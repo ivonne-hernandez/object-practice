@@ -13,3 +13,9 @@ var dog = {
   name: "Poki"
 };
 console.log(dog);
+
+var customer = {
+  name: "Jay",
+  moneySpent: 1212
+}
+console.log(customer);
